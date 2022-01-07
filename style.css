@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    background-color:rgb(255, 207, 118);
+}
+
+h6{
+    
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+    
+    
+}
+    
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    padding: 8px;
+    font-size:14px;
+    }
+p{
+        text-align: left;
+        font-size:20px;
+        margin: 11px 0px 30px 111px;
+    }
+img{
+    height:275px ;
+    width:428px ;
+    margin: 0px 84px -315px 819px;
+    text-align: right;
+}
+h1{
+    
+    text-align: left;
+    float: 8px;
+    margin: -6px 0px 30px 320px;
+    color:black;
+    font-size:18px;
+}
+
+
+h2{
+    text-align: left;
+    margin: 0px 0px -20px 12px;
+}
+iframe{
+    margin: 0px 0px 30px 111px;
+    height:400px ;
+    width:700px ;
+}
+
+h3{
+   text-align: left;
+   margin: 0px 0px 0px 111px;
+}
+h6{
+    margin:0px 0px 0px 111px;
+}
+nav ul :hover{
+background-color:orangered;
+font-size:120%;
+border-radius: 50px;
+}
+h4{
+    text-align: center;
+}
+header{
+    background-color: orange;
+    margin:-3px;
+    height: 100px;
+    text-align: center;
+    
+}
+input{
+    margin: 38px 0px;
+}
+button{
+     margin-top:15px;
+     transition: all.5s;
+}
+button:hover{
+    background-color:rgb(250, 143, 227) ;
+    color:black;
+    transform: scale(1.2);
+}
+
+
+#boasvindas{
+    background-color: white;
+    color: rgb(219, 21, 104);
+    padding: 15px;
+    margin: 12px 100px;
+}
